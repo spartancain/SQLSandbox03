@@ -4,4 +4,5 @@
     <string name="ptIncidentName">Incident Name</string>
     <string name="acIncidentType">Incident Type</string>
     <string name="acIncidentLoc">Incident Location</string>
+    <string name="submitIncident">Submit Incident</string>
 </resources>
