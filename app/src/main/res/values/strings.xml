@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">SQLSandbox03</string>
     <string name="tvIncidentCreationPageTitle">Incident Creation</string>
-    <string name="ptIncidentName">Incident Name</string>
-    <string name="acIncidentType">Incident Type</string>
-    <string name="acIncidentLoc">Incident Location</string>
+    <string name="IncidentName">Incident Name</string>
+    <string name="IncidentType">Incident Type</string>
+    <string name="IncidentLoc">Incident Location</string>
     <string name="submitIncident">Submit Incident</string>
 </resources>
