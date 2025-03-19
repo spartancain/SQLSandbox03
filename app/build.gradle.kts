@@ -59,5 +59,6 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-    implementation("androidx.recyclerview:recyclerview:1.4.0")
+    implementation(libs.androidx.recyclerview)
+    implementation(libs.androidx.appcompat)
 }
